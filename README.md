@@ -34,6 +34,12 @@ To run the model:
 3. Run the application:
    ```
    python app.py
+
+https://github.com/user-attachments/assets/f4e052c7-40cf-4f88-8621-33b0798f9587
+
+
    ```
 
 This will start the interface for using your trained YOLO model.
+Results
+
