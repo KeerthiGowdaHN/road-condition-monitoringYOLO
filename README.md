@@ -55,4 +55,4 @@ https://github.com/user-attachments/assets/ea070cd1-96af-4419-84bf-c4521f927843
 
 
 
-
+Video or camera can also be used for realtime detection
