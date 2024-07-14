@@ -41,6 +41,15 @@ To run the model:
    ```
 
 This will start the interface for using your trained YOLO model.
+Images before path hole detection
+![4](https://github.com/user-attachments/assets/5a32412a-38e4-4c86-8e65-58d58f2d2a48)
+
+
+https://github.com/user-attachments/assets/539e5359-fd3d-4be9-87b4-56c10830d5fe
+
+![1](https://github.com/user-attachments/assets/5b0264cd-ff02-4f52-910b-944bdec622d1)
+![2](https://github.com/user-attachments/assets/a77a9a38-3577-433b-8d94-5d8a3c581a4f)
+
 
 Results
 
