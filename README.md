@@ -1,5 +1,5 @@
 # YOLO Project
-Live preview http://34.30.190.159:5000/
+Live preview(it's available only when you trained the model in your laptop) [http://34.30.190.159:5000/](http://192.168.121.202:5000/)
 
 This project contains two main directories:
 1. Training
